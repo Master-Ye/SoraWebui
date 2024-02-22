@@ -18,7 +18,7 @@ const navigation = {
   social: [
     {
       name: 'GitHub',
-      href: 'https://github.com/SoraWebui/SoraWebui',
+      href: 'https://github.com/Master-Ye/SoraWebui',
       icon: (props) => (
         <svg fill="#fff" viewBox="0 0 24 24" {...props}>
           <path
